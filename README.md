@@ -12,11 +12,17 @@
 1.1. ANN_Real_data_set.ipynb(GPU trainning the hole model)
 
   -> Now this hole model train and run on the GPU
+
+
+1.2. ANN_Real_data_reduce overfitting.ipynb
+
+  ->This file we apply reducing overfitting method which is dropout,\regularization , BatchNorm tecnic that can reduce the overall 5 percent overfitting all is              discuss in this file 
   
 
 2.NN_module_project.ipynb
 
   ->In this module we build a project using a diabetics data set too see the performance we use the nn module . Basic EDA and then apply the model NN module to see the overall performance 
+
 
 
 
