@@ -24,5 +24,12 @@
   ->In this module we build a project using a diabetics data set too see the performance we use the nn module . Basic EDA and then apply the model NN module to see the overall performance 
 
 
+3.ANN_Data_set_Data_loader.ipynb
+
+
+  -> in this file i  code about data set and data loader and over all trainning [pipe line and print the overall accuracy 
+
+
+
 
 
