@@ -30,6 +30,11 @@
   -> in this file i  code about data set and data loader and over all trainning [pipe line and print the overall accuracy 
 
 
+4.mini_project_fmnist.ipynb
+
+   ->in this file i do a project to train the overall pipe line
+
+
 
 
 
