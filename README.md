@@ -17,6 +17,11 @@
 1.2. ANN_Real_data_reduce overfitting.ipynb
 
   ->This file we apply reducing overfitting method which is dropout,\regularization , BatchNorm tecnic that can reduce the overall 5 percent overfitting all is              discuss in this file 
+
+
+1.3.ANN_HyperParameter_tunning.ipyn
+
+  -> in this file i discuss about the model parameter  tunning and find out the best parameter and how it implement 
   
 
 2.NN_module_project.ipynb
